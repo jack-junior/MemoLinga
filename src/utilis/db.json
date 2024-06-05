@@ -1,0 +1,509 @@
+{
+  "consonnes": [
+    {
+      "word": "/b/",
+      "audioFile": "b.mp3",
+      "commonSpelling": [{"word": "B "}, {"word": "Ball "}],
+      "alternativeSpelling": [
+        {"word": "[bb]  ribbon"}
+      ]
+    },
+
+    {
+      "word": "/d/",
+      "audioFile":  "d.mp3",
+      "commonSpelling": [{"word": "D"}, {"word": "Dog "}],
+      "alternativeSpelling": [
+        {"word": "[dd]  add"},
+        {"word": "[ed]  filled"}
+      ]
+    },
+    {
+      "word": "/f/",
+      "audioFile": "f.mp3",
+      "commonSpelling": [{"word": "F"}, {"word": "fan "}],
+      "alternativeSpelling": [
+        {"word": "[ff]  cliff"},
+        {"word": "[ph]  phone"},
+        {"word": "[gh]  laugh"},
+        {"word": "[lf]  calf"},
+        {"word": "[ft]  often"}
+      ]
+    },
+    {
+      "word": "/g/",
+      "audioFile": "g.mp3",
+      "commonSpelling": [{"word": "G"}, {"word": "grapes"}],
+      "alternativeSpelling": [
+        {"word": "[gg]  egg"},
+        {"word": "[gh]  Ghost"},
+        {"word": "[gu]  Guest"},
+        {"word": "[gue]  catalogue"}
+      ]
+    },
+    {
+      "word": "/h/",
+      "audioFile": "h.mp3",
+      "commonSpelling": [{"word": "H"}, {"word": "Hat"}],
+      "alternativeSpelling": [
+        {"word": "[wh]  who"}
+      ]
+    },
+    {
+      "word": "/j/",
+      "audioFile": "j.mp3",
+      "commonSpelling": [{"word": "j"}, {"word": "jelly"}],
+      "alternativeSpelling": [
+        {"word": "[ge]  cage"},
+        {"word": "[g]  giraffe"},
+        {"word": "[dge]  edge"},
+        {"word": "[di]  soldier"},
+        {"word": "[gg]  exaggerate"}
+      ]
+    },
+    {
+      "word": "/k/",
+      "audioFile": "k.mp3",
+      "commonSpelling": [{"word": "K"}, {"word": "Kite"}],
+      "alternativeSpelling": [
+        {"word": "[c]  cat"},
+        {"word": "[ch]  chrome"},
+        {"word": "[cc]  acclaim"},
+        {"word": "[lk] folk"},
+        {"word": "[qu]  queen"},
+        {"word": "[ck]  back"},
+        {"word": "[x] box"}
+      ]
+    },
+    {
+      "word": "/l/",
+      "audioFile": "l.mp3",
+      "commonSpelling": [{"word": "L"}, {"word": "Leaf"}],
+      "alternativeSpelling": [
+        {"word": "[ll] spell"}
+      ]
+    },
+    {
+      "word": "/m/",
+      "audioFile": "m.mp3",
+      "commonSpelling": [{"word": "M"}, {"word": "monkey"}],
+      "alternativeSpelling": [
+        {"word": "[mm]  summer"},
+        {"word": "[mb]  climb"},
+        {"word": "[mn]  Autumn"},
+        {"word": "[lm]  palm"}
+      ]
+    },
+    {
+      "word": "/n/",
+      "audioFile": "n.mp3",
+      "commonSpelling": [{"word": "N"}, {"word": "nest"}],
+      "alternativeSpelling": [
+        {"word": "[nn]  funny"},
+        {"word": "[kn]  knight"},
+        {"word": "[gn]  gnat"},
+        {"word": "[pn]  pneumonia"}
+      ]
+    },
+    {
+      "word": "/ng/",
+      "audioFile": "ng.mp3",
+      "commonSpelling": [{"word": "ng"}, {"word": "ring"}],
+      "alternativeSpelling": [
+        {"word": "[nk]  sink"},
+        {"word": "[ngue]  tongue"}
+      ]
+    },
+    {
+      "word": "/p/",
+      "audioFile": "p.mp3",
+      "commonSpelling": [{"word": "P"}, {"word": "Pig"}],
+      "alternativeSpelling": [
+        {"word": "[pp]  happy"}
+      ]
+    },
+    {
+      "word": "/r/",
+      "audioFile": "r.mp3",
+      "commonSpelling": [{"word": "R"}, {"word": "Robot"}],
+      "alternativeSpelling": [
+        {"word": "[rr]  carrot"},
+        {"word": "[wr]  wrong"},
+        {"word": "[rh]  rhyme"}
+      ]
+    },
+    {
+      "word": "/s/",
+      "audioFile": "s.mp3",
+      "commonSpelling": [{"word": "S"}, {"word": "Sun"}],
+      "alternativeSpelling": [
+        {"word": "[ss]  mess"},
+        {"word": "[c]  circus"},
+        {"word": "[sc]  science"},
+        {"word": "[psy]  psychology"},
+        {"word": "[st]  listen"},
+        {"word": "[ce]  rice"},
+        {"word": "[se]  horse"}
+      ]
+    },
+    {
+      "word": "/t/",
+      "audioFile": "t1.mp3",
+      "commonSpelling": [{"word": "T"}, {"word": "Tap"}],
+      "alternativeSpelling": [
+        {"word": "[t]  batter"},
+        {"word": "[th]  thomas"},
+        {"word": "[ed]  mapped"}
+      ]
+    },
+    {
+      "word": "/v/",
+      "audioFile": "v.mp3",
+      "commonSpelling": [{"word": "V"}, {"word": "Van"}],
+      "alternativeSpelling": [
+        {"word": "[f]  Of"},
+        {"word": "[ph]  stephen"},
+        {"word": "[ve]  five"}
+      ]
+    },
+    {
+      "word": "/w/",
+      "audioFile": "w.mp3",
+      "commonSpelling": [{"word": "W"}, {"word": "Web"}],
+      "alternativeSpelling": [
+        {"word": "[wh]  why"},
+        {"word": "[ui]  quick"},
+        {"word": "[oi]  choir"}
+      ]
+    },
+    {
+      "word": "/y/",
+      "audioFile": "y.mp3",
+      "commonSpelling": [{"word": "Y"}, {"word": "Yo-yo"}],
+      "alternativeSpelling": [
+        {"word": "[i]  opinion"}
+      ]
+    },
+    {
+      "word": "/z/",
+      "audioFile": "z.mp3",
+      "commonSpelling": [{"word": "Z"}, {"word": "zebra"}],
+      "alternativeSpelling": [
+        {"word": "[zz] buzz"},
+        {"word": "[s]  has"},
+        {"word": "[ss]  scissors"},
+        {"word": "[x]  xylotol"},
+        {"word": "[ze]  maze"}
+      ]
+    }
+  ],
+  "combinaisonsConsonnes": [
+    {
+      "word": "/zh/",
+      "audioFile": "zh.mp3",
+      "commonSpelling": [{"word": "zh"}, {"word": "[s]  treasure"}],
+      "alternativeSpelling": [
+        {"word": "[si]  division"}
+      ]
+    },
+    {
+      "word": "/sh/",
+      "audioFile": "sh.mp3",
+      "commonSpelling": [{"word": "Sh"}, {"word": "shark"}],
+      "alternativeSpelling": [
+        {"word": "[ce]  ocean"},
+        {"word": "[sci]  conscience"},
+        {"word": "[ti]  station"},
+        {"word": "[s]  sure"},
+        {"word": "[ci]  special"},
+        {"word": "[si]  tension"},
+        {"word": "[ch]  machine"}
+      ]
+    },
+    {
+      "word": "/ch/",
+      "audioFile": "ch.mp3",
+      "commonSpelling": [{"word": "Ch"}, {"word": "Church"}],
+      "alternativeSpelling": [
+        {"word": "[tch]  watch"},
+        {"word": "[tu]  future"},
+        {"word": "[ti]  question"},
+        {"word": "[te]  righteous"}
+      ]
+    },
+    {
+      "word": "/th/",
+      "audioFile": "th.mp3",
+      "commonSpelling": [{"word": "Th"}, {"word": "think"}],
+      "alternativeSpelling": [
+        {"word": "[th]  teeth"}
+      ]
+    },
+    {
+      "word": "/dh/",
+    
+      "audioFile": "dh.mp3",
+      "commonSpelling": [{"word": "dh"}, {"word": "[th]  feather"}],
+      "alternativeSpelling": [
+        {"word": "[th]  throat"}
+      ]
+    }
+  ],
+  "voyellesCourtes": [
+    {
+      "word": "/a/",
+      "audioFile": "a.mp3",
+      "commonSpelling": [{"word": "a"}, {"word": "cat"}],
+      "alternativeSpelling": [
+      ]
+    },
+    {
+      "word": "/e/",
+      "audioFile": "e.mp3",
+      "commonSpelling": [{"word": "e"}, {"word": "egg"}],
+      "alternativeSpelling": [
+        {"word": "[ea]  Bread"},
+        {"word": "[eo]  leapard"},
+        {"word": "[u]  buried"},
+        {"word": "[ei]  heifer"},
+        {"word": "[ie]  friend"},
+        {"word": "[ai]  said"},
+        {"word": "[a]  many"}
+      ]
+    },
+    {
+      "word": "/i/",
+      "audioFile": "i.mp3",
+      "commonSpelling": [{"word": "i"}, {"word": "igloo"}],
+      "alternativeSpelling": [
+        {"word": "[e]  England"},
+        {"word": "[o]  women"},
+        {"word": "[u]  busy"},
+        {"word": "[ui]  build"},
+        {"word": "[y]  hypnotise"}
+      ]
+    },
+    {
+      "word": "/o/",
+      "audioFile": "o.mp3",
+      "commonSpelling": [{"word": "o"}, {"word": "orange"}],
+      "alternativeSpelling": [
+        {"word": "[a]  swan"},
+        {"word": "[ho]  honest"}
+      ]
+    },
+    {
+      "word": "/u/",
+      "audioFile": "u.mp3",
+      "commonSpelling": [{"word": "u"}, {"word": "mug"}],
+      "alternativeSpelling": [
+        {"word": "[o]  monkey"},
+        {"word": "[oo]  flood"},
+        {"word": "[ou]  trouble"}
+      ]
+    },
+    {
+      "word": "/oo/",
+      "audioFile": "oo.mp3",
+      "commonSpelling": [{"word": "oo"}, {"word": "book"}],
+      "alternativeSpelling": [
+        {"word": "[u]  bush"},
+        {"word": "[ou]  could"},
+        {"word": "[o]  wolf"}
+      ]
+    }
+  ],
+  "voyellesLongues": [
+    {
+      "word": "/ay/",
+      "audioFile": "ay.mp3",
+      "commonSpelling": [{"word": "ai"}, {"word": "snail"}],
+      "alternativeSpelling": [
+        {"word": "[a]  baby"},
+        {"word": "[eigh]  weight"},
+        {"word": "[au]  gauge"},
+        {"word": "[aigh]  straight"},
+        {"word": "[a-e]  cake"},
+        {"word": "[ay]  hay"},
+        {"word": "[et]  croquet"},
+        {"word": "[ea]  break"},
+        {"word": "[ey]  they"}
+      ]
+    },
+    {
+      "word": "/ey/",
+      "audioFile": "ey.mp3",
+      "commonSpelling": [{"word": "ee"}, {"word": "bee"}],
+      "alternativeSpelling": [
+        {"word": "[e]  me"},
+        {"word": "[ea]  seat"},
+        {"word": "[y]  lady"},
+        {"word": "[ey]  key"},
+        {"word": "[oe]  phoenix"},
+        {"word": "[ay]  quay"},
+        {"word": "[eo]  people"},
+        {"word": "[ei]  receive"},
+        {"word": "[ie]  brief"},
+        {"word": "[i]  ski"}
+      ]
+    },
+    {
+      "word": "/iy/",
+      "audioFile": "iy.mp3",
+      "commonSpelling": [{"word": "i"}, {"word": "spider"}],
+      "alternativeSpelling": [
+        {"word": "[y]  fly"},
+        {"word": "[igh] night"},
+        {"word": "[ie]  pie"},
+        {"word": "[uy]  buy"},
+        {"word": "[ai]  aisle"},
+        {"word": "[is]  island"},
+        {"word": "[eigh]  height"},
+        {"word": "[i-e]  kite"},
+        {"word": "[ye]  rye"}
+      ]
+    },
+    {
+      "word": "/oa/",
+      "audioFile": "oa.mp3",
+      "commonSpelling": [{"word": "oa"}, {"word": "boat"}],
+      "alternativeSpelling": [
+        {"word": "[o-e]  bone"},
+        {"word": "[o]  open"},
+        {"word": "[oe]  toe"},
+        {"word": "[ow]  tow"},
+        {"word": "[ough]  though"},
+        {"word": "[eau]  beau"},
+        {"word": "[oo]  brooch"},
+        {"word": "[ew]  sew"}
+      ]
+    },
+    {
+      "word": "/uu/",
+      "audioFile": "uu.mp3",
+      "commonSpelling": [{"word": "oo"}, {"word": "Moon"}],
+      "alternativeSpelling": [
+        {"word": "[ew]  screw"},
+        {"word": "[ue]  blue"},
+        {"word": "[u-e]  flute"},
+        {"word": "[oeu]  manoeuver"},
+        {"word": "[o]  who"},
+        {"word": "[ui]  fruit"},
+        {"word": "[oe]  shoe"},
+        {"word": "[ough]  through"}
+      ]
+    },
+    {
+      "word": "/yu/",
+      "audioFile": "yu.mp3",
+      "commonSpelling": [{"word": "u"}, {"word": "uniform"}],
+      "alternativeSpelling": [
+        {"word": "[ou]  you"},
+        {"word": "[ew]  few"},
+        {"word": "[eu]  feud"},
+        {"word": "[eau]  beauty"},
+        {"word": "[ieu]  view"}
+      ]
+    },
+    {
+      "word": "/oi/",
+      "audioFile": "oi.mp3",
+      "commonSpelling": [{"word": "oi"}, {"word": "coin"}],
+      "alternativeSpelling": [
+        {"word": "[oy]  boy"}
+      ]
+    },
+    {
+      "word": "/ow/",
+      "audioFile": "ow.mp3",
+      "commonSpelling": [{"word": "ow"}, {"word": "cow"}],
+      "alternativeSpelling": [
+        {"word": "[ou]  shout"},
+        {"word": "[ough]  bough"}
+      ]
+    },
+    {
+      "word": "/ä/",
+      "audioFile": "a1.mp3",
+      "commonSpelling": [{"word": "er"}, {"word": "ladder"}],
+      "alternativeSpelling": [
+        {"word": "[ar]  dollar"},
+        {"word": "[u]  cactus"},
+        {"word": "[ur]  augur"},
+        {"word": "[our]  honour"},
+        {"word": "[or]  doctor"},
+        {"word": "[i]  dolphin"},
+        {"word": "[e]  ticket"}
+      ]
+    },
+    {
+      "word": "/air/",
+      "audioFile": "air.mp3",
+      "commonSpelling": [{"word": "air"}, {"word": "chair"}],
+      "alternativeSpelling": [
+        {"word": "[are]  square"},
+        {"word": "[ear]  pear"},
+        {"word": "[eir]  their"},
+        {"word": "[ere]  where"},
+        {"word": "[ayer]  prayer"}
+      ]
+    },
+    {
+      "word": "/ar/",
+      "audioFile": "t.mp3",
+      "commonSpelling": [{"word": "ar"}, {"word": "car"}],
+      "alternativeSpelling": [
+        {"word": "[a]  bath"},
+        {"word": "[au]  laugh"},
+        {"word": "[er]  sergeant"},
+        {"word": "[ear]  heart"}
+      ]
+    },
+    {
+      "word": "/er/",
+      "audioFile": "er.mp3",
+      "commonSpelling": [{"word": "ir"}, {"word": "bird"}],
+      "alternativeSpelling": [
+        {"word": "[er]  term"},
+        {"word": "[ur]  burn"},
+        {"word": "[ear]  pearl"},
+        {"word": "[or]  word"},
+        {"word": "[our]  journey"}
+      ]
+    },
+    {
+      "word": "/or/",
+      "audioFile": "or.mp3",
+      "commonSpelling": [{"word": "or"}, {"word": "fork"}],
+      "alternativeSpelling": [
+        {"word": "[a]  ball"},
+        {"word": "[aw]  paw"},
+        {"word": "[oor]  door"},
+        {"word": "[ore]  more"},
+        {"word": "[oar]  board"},
+        {"word": "[our]  four"},
+        {"word": "[augh]  taught"},
+        {"word": "[ar]  war"},
+        {"word": "[ough]  bought"},
+        {"word": "[au]  sauce"}
+      ]
+    },
+    {
+      "word": "ear",
+      "audioFile": "ear.mp3",
+      "commonSpelling": [{"word": "ear"}, {"word": "hear"}],
+      "alternativeSpelling": [
+        {"word": "[eer]  steer"},
+        {"word": "[ere]  here"},
+        {"word": "[ier]  pier"}
+      ]
+    },
+    {
+      "word": "ure",
+      "audioFile": "ure.mp3",
+      "commonSpelling": [{"word": "ure"}, {"word": "cure"}],
+      "alternativeSpelling": [
+      ]
+    }
+  ]
+}

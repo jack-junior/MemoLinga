@@ -1,0 +1,11 @@
+{
+  "name": "focus",
+  "displayName": "focus",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ce5598a1-2e4e-4c98-9e5b-44d24a57bf8d"
+      }
+    }
+  }
+}
