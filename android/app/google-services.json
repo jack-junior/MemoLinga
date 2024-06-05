@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612727643384",
+    "project_id": "memolingavrai",
+    "storage_bucket": "memolingavrai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612727643384:android:835bef391f559ad6136f0d",
+        "android_client_info": {
+          "package_name": "com.focus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1yNlQ55PZuSip3WmddYUJliSxDW5SgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
